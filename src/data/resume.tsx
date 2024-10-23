@@ -141,9 +141,9 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/StudentManagement.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "",
     },
     {
       title: "Decentralized Sports Betting App",
@@ -162,8 +162,8 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "/Web3.png",
+      video: "",
     },
     {
       title: "Survey Platform Clone",
@@ -202,9 +202,9 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/partyapp.png",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "",
     },
   ],
   hackathons: [
@@ -215,7 +215,7 @@ export const DATA = {
       description:
         "Won the Hackslam 2023 hackathon happened across Deloitte USI (1/871) for AI Aided centralized Deloitte booking system.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+        "/hackathondeloitte.webp",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
@@ -226,7 +226,7 @@ export const DATA = {
       description:
         "Developed a fully functional automated loan processing system with image data extraction and validation in 24 hrs",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
+        "/hackathonlpl.jpg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
