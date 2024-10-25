@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Diego, CA",
   locationLink: "https://www.google.com/maps/place/sandiego",
   description:
-    "About 2.6 Years of software engineering experience fueled by curiosity and a knack for automating everything possible — because being lazy is just smart efficiency.",
+    "About 3 Years of software engineering experience fueled by curiosity and a knack for automating everything possible — because being lazy is just smart efficiency.",
   summary:
     "[Kickstarted my career in July 2021 as a Software Engineer at Deloitte](#work), where I spent over two years working with a range of technologies, focusing on [Python, SQL, and SAP](#work). I am [now pursuing a Master's in Computer Science at CSUSM](#education) while interning at [Legrand North America](#work), developing their test automation framework using [SpecFlow and .NET](#skills). Along the way, I had the [pleasure of winning Deloitte's Hackslam 2023](#), further fueling my passion for innovation and automation.",
   avatarUrl: "/me.png",
